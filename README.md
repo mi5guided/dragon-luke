@@ -1,4 +1,4 @@
-# dragon_luke
+# Team: Dragon Luke, Kicking and Screaming
 
 Different reward functions for AWS DeepRacer. 
 
